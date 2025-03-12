@@ -1,4 +1,4 @@
-#Codebuch Parisnetzwerk 
+
 Edgeliste:
 
 Grundregel: Die Edgelist darf pro Spalte immer nur einen Wert enthalten. Bis auf die ID idealerweise numerisch codiert (als Zahl).
