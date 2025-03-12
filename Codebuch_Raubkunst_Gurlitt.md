@@ -1,7 +1,6 @@
 # Codebuch Raubkunst Gurlitt	
 Edgelist 
 
-Grundregel: Die Edgelist darf pro Spalte immer nur einen Wert enthalten. Bis auf die ID idealerweise numerisch codiert (als Zahl).
 From: Definiert den Sender in gerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, nur ein Wort.
 To: Definiert den Empfänger in ungerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, etc. 
 Time: Zeitpunkt der Transaktion, nur ein Jahr angeben, (DAS LETZE BEI UNKLAREM ZEITRAUM) Bsp. von 1950-1960 verschollen --> 1960
@@ -11,7 +10,6 @@ Direkte Übergabe: 1= ja, 2= nein (-> verschollen)
 	
 Nodelist
 
-Grundregel: Die IDs der Nodelist müssen mit den IDs der Edgelist komplett übereinstimmen. Ausprägungen der Attribute in der Regel numerisch definieren.
 Id: Eindeutige Identifikation jedes einzelnen Knotens (vertex).
 Name: Name oder Bezeichnung des Knotens. 
 Type: Was ist es: Person=1, Organisation/Museum/Institution =2, Kunstwerk=3, Auktion=4
