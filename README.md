@@ -1,1 +1,0 @@
-# Raubkunst_Gurlitt
