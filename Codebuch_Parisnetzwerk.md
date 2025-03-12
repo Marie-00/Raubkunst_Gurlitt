@@ -1,7 +1,7 @@
 # Codebuch Parisnetzwerk
 Edgeliste:
 
-Grundregel: Die Edgelist darf pro Spalte immer nur einen Wert enthalten. Bis auf die ID idealerweise numerisch codiert (als Zahl).
+
 From:	definiert den Sender in gerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, nur ein Wort
 To: 	definiert den Empfänger in ungerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, etc. 
 Relationship:	1=haben gemeinsam gehandelt, 2=sind einander bekannt
@@ -11,7 +11,7 @@ Relationship:	1=haben gemeinsam gehandelt, 2=sind einander bekannt
 	
 Nodeliste:
 
-Grundregel: die IDs der Nodelist müssen mit den IDs der Edgelist komplett übereinstimmen. Ausprägungen der Attribute in der Regel numerisch definieren.
+
 Id:	Eindeutige Identifikation jedes einzelnen Knotens (vertex)
 Name:	Name oder Bezeichnung des Knotens. 
 Type:	welche Herkunft hat die Person? 1=nicht-jüdisch, 2=jüdisch
